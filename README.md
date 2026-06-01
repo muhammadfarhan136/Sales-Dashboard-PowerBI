@@ -3,7 +3,7 @@
 
 <hr />
 <br />
-# 📊 Sales Dashboard - Power BI Project
+📊 Sales Dashboard - Power BI Project
 
 ## 📌 Project Overview
 This project is an **interactive Sales Dashboard** created using **Power BI**.  
